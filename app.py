@@ -1,5 +1,5 @@
 import qrcode as qr
 
-img = qr.make("https://www.youtube.com/")
+img = qr.make("www.choudharypappu33@gmail.com")
  
-img.save("youtube.png") 
+img.save("Dr.png") 

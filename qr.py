@@ -10,7 +10,7 @@ qr=qrcode.QRCode(version=1,
 
 )
 
-qr.add_data("https://www.youtube.com/")
+qr.add_data("www.choudharypappu33@gmail.com")
 qr.make(fit=True)
 img=qr.make_image(fill_color="red",back_color="blue")
-img.save("youtube.png")
+img.save("Dr.png")
